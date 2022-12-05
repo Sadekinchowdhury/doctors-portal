@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "description": "this phone is verry good .it is made in china phone",
+        "name": "Xiaomi",
+        "price": 150,
+        "brand": "xiaomi",
+        "category": "redmi",
+        "picture": "https://consumer.huawei.com/content/dam/huawei-cbg-site/en/support/fut-test/image/1-phone1.png",
+        "location": "rumelplaza,3030,sunamgang",
+        "used-time": "1years",
+        "original-price": 200,
+        "seller-name": "rumel",
+        "posted-time": "20 days ago"
+    },
+    {
+        "id": 3,
+        "description": "this phone is verry good .it is made in china phone",
+        "name": "Realme",
+        "price": 150,
+        "brand": "Realmi",
+        "category": "realmi",
+        "picture": "https://fdn2.gsmarena.com/vv/pics/realme/realme-8-1.jpg",
+        "location": "rumelplaza,3033,hobigang",
+        "used-time": "2years",
+        "original-price": 200,
+        "seller-name": "sahin",
+        "posted-time": "3 days ago"
+    },
+    {
+        "id": 5,
+        "description": "this phone is verry good .it is made in china phone",
+        "name": "sumsung",
+        "price": 100,
+        "brand": "sumsung",
+        "category": "sumsung",
+        "picture": "https://www.pngmart.com/files/7/Mobile-Phone-Download-PNG-Image.png",
+        "location": "suhag,daka-440",
+        "used-time": "2years",
+        "original-price": 237,
+        "seller-name": "rumel",
+        "posted-time": "4 days ago"
+    }
+]
